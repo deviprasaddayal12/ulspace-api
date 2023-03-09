@@ -1,0 +1,19 @@
+{
+  "name": "ulspace-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deviprasaddayal12/ulspace-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deviprasaddayal12/ulspace-api/issues"
+  },
+  "homepage": "https://github.com/deviprasaddayal12/ulspace-api#readme"
+}
